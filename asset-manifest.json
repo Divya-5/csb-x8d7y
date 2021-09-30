@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://divya-5.github.io/csb-x8d7y/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://divya-5.github.io/csb-x8d7y/static/js/main.5476c125.chunk.js",
+    "main.js.map": "https://divya-5.github.io/csb-x8d7y/static/js/main.5476c125.chunk.js.map",
+    "runtime-main.js": "https://divya-5.github.io/csb-x8d7y/static/js/runtime-main.5481a952.js",
+    "runtime-main.js.map": "https://divya-5.github.io/csb-x8d7y/static/js/runtime-main.5481a952.js.map",
+    "static/js/2.630a3eed.chunk.js": "https://divya-5.github.io/csb-x8d7y/static/js/2.630a3eed.chunk.js",
+    "static/js/2.630a3eed.chunk.js.map": "https://divya-5.github.io/csb-x8d7y/static/js/2.630a3eed.chunk.js.map",
+    "index.html": "https://divya-5.github.io/csb-x8d7y/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://divya-5.github.io/csb-x8d7y/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.630a3eed.chunk.js.LICENSE.txt": "https://divya-5.github.io/csb-x8d7y/static/js/2.630a3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5481a952.js",
+    "static/js/2.630a3eed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5476c125.chunk.js"
+  ]
+}
